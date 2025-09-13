@@ -1,2 +1,2 @@
 # f-strings
-згадай f-strings
+згадай f-strings.
