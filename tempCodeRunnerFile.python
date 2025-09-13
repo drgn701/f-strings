@@ -1,0 +1,4 @@
+age = 20
+python_version = 3.13
+print(f'Your age is {age}')
+print(f'python_version={python_version}')
